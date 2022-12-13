@@ -1,0 +1,4 @@
+[3-Dec-2022 06:38:06 (UTC)] File: , Method/Function: , Query: select * from PREFIXcustomer WHERE username='swaleha', Error: 1146-Table 'aseemaseem1910371.prefixcustomer' doesn't exist
+[3-Dec-2022 06:40:15 (UTC)] File: , Method/Function: , Query: select * from PREFIXcustomer WHERE username='rgfr', Error: 1146-Table 'aseemaseem1910371.prefixcustomer' doesn't exist
+[3-Dec-2022 06:41:56 (UTC)] File: , Method/Function: , Query: select * from PREFIXcustomer WHERE username='hty', Error: 1146-Table 'aseemaseem1910371.prefixcustomer' doesn't exist
+[3-Dec-2022 06:42:20 (UTC)] File: , Method/Function: , Query: select * from PREFIXcustomer WHERE username='tyhj', Error: 1146-Table 'aseemaseem1910371.prefixcustomer' doesn't exist
